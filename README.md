@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Weather Me</h1>
+<p align="center">A responsive weather application of Brazilian cities.</p>
 
-## Getting Started
+<p align="center">
+ <a href="#about">About</a> •
+ <a href="#status">Status</a> •
+ <a href="#demo">Demo</a> • 
+ <a href="#-tools">Tools</a>
+</p>
 
-First, run the development server:
+# About
+<p align="left">This project was made with next.js using Server Side Generetaion (SSG) and Incremantal Static Regenetaration (ISR) to genarate the application pages and speed client pages render.</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Status
+<h4 align="left"> 
+	✅ Completed
+</h4>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Demo
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+<img src="https://user-images.githubusercontent.com/43152315/148101188-8c21eec3-043e-410f-8939-6d0a5d912d38.png" width="512" height="288"/>
+<img src="https://user-images.githubusercontent.com/43152315/148101712-2ae08987-afda-4d25-b03a-494460999f46.png" width="512" height="288"/>
+<img src="https://user-images.githubusercontent.com/43152315/148101349-38f81de9-0e87-4cf4-8c0a-7758ec944ef8.png" width="180" height="420"/>
+<img src="https://user-images.githubusercontent.com/43152315/148101503-12766e0c-a73b-4b2e-83d9-52154e8b096e.png" width="180" height="420"/>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Loading
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<img src="https://user-images.githubusercontent.com/43152315/148103115-a0555501-3834-4fb9-96b3-b7a6855b8286.gif" width="180" height="420"/>
 
-## Learn More
+# 🛠 Tools
 
-To learn more about Next.js, take a look at the following resources:
+The following tools were used in the construction of the project:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [React](https://pt-br.reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [StyledComponents](https://styled-components.com/)
