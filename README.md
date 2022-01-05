@@ -35,3 +35,8 @@ The following tools were used in the construction of the project:
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [StyledComponents](https://styled-components.com/)
+
+## APIs
+
+- [Weather API](https://www.weatherapi.com/)
+- [IBGE-API de localidades](https://servicodados.ibge.gov.br/api/docs/localidades)
